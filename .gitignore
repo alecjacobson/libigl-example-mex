@@ -1,0 +1,5 @@
+example.mexmaci64
+build/*
+external/*
+.*.sw*
+.*.un~
